@@ -9,7 +9,7 @@
 - **Blockchain:** Polygon (ERC-20)  
 - **Total Supply:** 1 Trillion PNJC  
 - **Utility Model**  
-- **Mission:** Support children with leukemia, SMA, glioma, and other rare diseases through a Georgian charitable foundation  
+- **Mission:** Support children with Leukemia, SMA, Glioma, and other rare diseases through a Georgian charitable foundation  
 - **A memecoin with heart and purpose**
 
 ---
